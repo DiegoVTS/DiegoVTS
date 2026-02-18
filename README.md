@@ -4,7 +4,6 @@ Desenvolvedor Mobile em formação com foco em Android.
 
 ## 🚀 Atualmente estudando:
 - Kotlin
-- Android Studio
 - Desenvolvimento de Aplicativos Android
 - Integração com API
 
