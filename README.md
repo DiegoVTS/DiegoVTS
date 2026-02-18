@@ -1,16 +1,15 @@
-## Hi there 👋
+# Diego Vinícius Tenório Siqueira
 
-<!--
-**DiegoVTS/DiegoVTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Mobile em formação com foco em Android.
 
-Here are some ideas to get you started:
+## 🚀 Atualmente estudando:
+- Kotlin
+- Android Studio
+- Desenvolvimento de Aplicativos Android
+- Integração com API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+Construir aplicativos Android bem estruturados e evoluir constantemente na área de tecnologia.
+
+## 📌 Projetos em desenvolvimento
+Em breve novos projetos serão adicionados aqui.
