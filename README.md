@@ -1,3 +1,9 @@
+
+
+<img width="237" height="288" alt="image" src="https://github.com/user-attachments/assets/90156af4-6707-47c1-a591-9c0cadbaed3e" />
+
+
+
 # 👋 Olá, eu sou Diego Vinícius
 
 Sou desenvolvedor web em formação, atualmente estudando HTML, CSS e JavaScript para construção de interfaces modernas e funcionais.
