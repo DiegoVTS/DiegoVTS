@@ -1,7 +1,6 @@
 
 
-<img width="237" height="288" alt="image" src="https://github.com/user-attachments/assets/90156af4-6707-47c1-a591-9c0cadbaed3e" />
-
+<img width="1344" height="768" alt="ideogram-v3 0_Professional_LinkedIn_banner_for_a_Front-End_Developer_dark_modern_background_wi-0" src="https://github.com/user-attachments/assets/3d826644-f181-483c-94f0-c73fd853b70d" />
 
 
 # 👋 Olá, eu sou Diego Vinícius
