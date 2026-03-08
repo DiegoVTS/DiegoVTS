@@ -18,7 +18,7 @@ Estou no início da minha jornada na programação, focado em aprender boas prá
 
 ## 🏆 Certificados
 
-<img src="./certificado.png" width="800"/>
+<img src="./certificado.png" width="500"/>
 
 Certificado de participação na **Imersão Dev do Futuro** com 16 horas de carga horária, incluindo desenvolvimento de projeto prático.
 
