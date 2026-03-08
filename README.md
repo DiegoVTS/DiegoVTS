@@ -6,7 +6,7 @@ Sou desenvolvedor web em formação, atualmente estudando HTML, CSS e JavaScript
 
 Estou no início da minha jornada na programação, focado em aprender boas práticas, organização de código e desenvolvimento de projetos que fortaleçam minha base como desenvolvedor.
 
-
+---
 
 ## 🚀 Atualmente estudando
 - HTML5
@@ -14,20 +14,20 @@ Estou no início da minha jornada na programação, focado em aprender boas prá
 - JavaScript
 - Estruturação de páginas responsivas
 
-
+---
 
 ## 🏆 Certificados
 
-<img src="./certificado.png" width="500"/>
+<img src="./certificado.png" width="800"/>
 
 Certificado de participação na **Imersão Dev do Futuro** com 16 horas de carga horária, incluindo desenvolvimento de projeto prático.
 
-
+---
 
 ## 🎯 Objetivo
 Me desenvolver como profissional da área de tecnologia, evoluindo constantemente e construindo projetos cada vez mais completos.
 
-
+---
 
 ## 📌 Projetos em desenvolvimento
 Em breve novos projetos serão adicionados aqui.
