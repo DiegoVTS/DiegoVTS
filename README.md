@@ -6,7 +6,7 @@ Sou desenvolvedor web em formação, atualmente estudando HTML, CSS e JavaScript
 
 Estou no início da minha jornada na programação, focado em aprender boas práticas, organização de código e desenvolvimento de projetos que fortaleçam minha base como desenvolvedor.
 
----
+
 
 ## 🚀 Atualmente estudando
 - HTML5
